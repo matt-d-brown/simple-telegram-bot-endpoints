@@ -1,1 +1,1 @@
-# simple-telegram-bot-endpoints
+# Simple Telegram Bot Endpoints
